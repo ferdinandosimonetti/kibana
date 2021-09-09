@@ -1,2 +1,2 @@
 # kibana
-Kibana image with X-Pack
+Kibana image with Reporting plugin
